@@ -305,4 +305,17 @@ a:hover {
   #enter {
     margin-bottom: 30px;
   }
+  .row.g-3 {
+    display: flex;
+    justify-content: center;
+  }
+
+  .col-6 {
+    display: flex;
+    justify-content: center;
+  }
+
+  .image-container {
+    width: 90%;
+  }
 }
