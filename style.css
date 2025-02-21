@@ -75,6 +75,7 @@ section {
 
 .description {
   padding: 20px;
+  text-align:justify;
 }
 
 .description h2 {
