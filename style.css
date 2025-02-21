@@ -289,6 +289,7 @@ a:hover {
 
   .description {
     margin-bottom: 30px;
+    text-align:justify;
   }
   .modal-body img {
     width: 400px;
